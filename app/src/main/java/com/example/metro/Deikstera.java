@@ -12,10 +12,15 @@ public class Deikstera {
 
     Deikstera()
     {
+        for (int i =0; i < SIZE; i++)
+        {
 
+            for (int j = i +1; j < SIZE; j++)
+            {
 
+            }
 
-
+        }
     }
 
 
